@@ -1,0 +1,9 @@
+nome = "Deiviy Deny"
+altura = 1.78
+peso = 105
+imc = peso / (altura * altura)
+
+print('Nome:', nome)
+print('Altura:', altura)
+print('Peso:', peso)
+print('Indice de massa corporal:', imc )
